@@ -149,6 +149,18 @@ You can verify the product was created in your [Stripe test dashboard](https://d
 
 ---
 
+## Testing the Payment
+
+You can simulate a successful payment by using test cards from the following list:
+
+**Mastercard Credit Card** — 5555 5555 5555 4444 , Any 3 digit number for CVC, Any future date where asked
+
+**Mastercard Debit Card** — 5200 8282 8282 8210 , Any 3 digit number for CVC, Any future date where asked
+
+**Bank Payment** - select to pay via bank, and select the flow you want to simulate
+
+---
+
 ## How It Works (The Concept)
 
 ```
